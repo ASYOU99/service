@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /user/sign-in/login
+Disallow: /user/sign-in/signup
+
+User-agent: Yandex
+Disallow: /user/sign-in/login
+Disallow: /user/sign-in/signup
+Host: russia-services.com
+
+User-agent: Googlebot
+Disallow: /user/sign-in/login
+Disallow: /user/sign-in/signup
